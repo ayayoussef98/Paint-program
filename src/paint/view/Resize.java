@@ -19,7 +19,7 @@ import paint.model.Rectangle;
 
 /**
  *
- * @author Reem Mohamed Ebeid
+ * @author ayous
  */
 public class Resize extends javax.swing.JFrame {
 //shapes s;
