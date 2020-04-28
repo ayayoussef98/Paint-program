@@ -9,7 +9,6 @@ import paint.model.Shape;
 
 /**
  *
- * @author ayous
  */
 public interface DrawingEngine {
     
