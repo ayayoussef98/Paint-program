@@ -44,7 +44,6 @@ import paint.view.DrawingPanel;
 
 /**
  *
- * @author Monkia
  */
 public class XML implements SaveAndLoad {
 
