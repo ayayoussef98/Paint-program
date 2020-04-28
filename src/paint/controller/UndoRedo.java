@@ -12,7 +12,6 @@ import paint.view.DrawingPanel;
 
 /**
  *
- * @author Monkia
  */
 public class UndoRedo implements Command {
     Originator originator =new Originator();
