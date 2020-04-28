@@ -12,7 +12,6 @@ import paint.model.shapes;
 
 /**
  *
- * @author Reem Mohamed Ebeid
  */
 public class Memento {
     //LinkedList<shapes> state;
