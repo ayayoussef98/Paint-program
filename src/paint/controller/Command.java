@@ -7,7 +7,6 @@ package paint.controller;
 
 /**
  *
- * @author Monkia
  */
 public interface Command {
     public void Undo();
