@@ -30,7 +30,7 @@ import paint.view.DrawingPanel;
 
 /**
  *
- * @author Monkia
+
  */
 public class JSON implements SaveAndLoad{
     DrawingPanel x;
