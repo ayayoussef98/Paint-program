@@ -12,7 +12,6 @@ import paint.model.shapes;
 
 /**
  *
- * @author Monkia
  */
 public class Originator {
     private ArrayList<shapes> state;
