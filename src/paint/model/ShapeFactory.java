@@ -8,7 +8,7 @@ package paint.model;
 
 /**
  *
- * @author Reem Mohamed Ebeid
+ * @author ayous
  */
 public class ShapeFactory {
     
