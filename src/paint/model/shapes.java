@@ -11,7 +11,7 @@ import java.awt.Point;
 
 /**
  *
- * @author Reem Mohamed Ebeid
+ * @author ayous
  */
 public abstract class shapes implements Shape {
     public Point point;
