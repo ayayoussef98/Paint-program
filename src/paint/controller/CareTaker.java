@@ -10,7 +10,6 @@ import java.util.List;
 
 /**
  *
- * @author Monkia
  */
 public class CareTaker {
      private List<Memento> mementoList=new ArrayList<Memento>();
