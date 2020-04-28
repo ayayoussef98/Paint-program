@@ -10,7 +10,6 @@ import paint.model.shapes;
 
 /**
  *
- * @author Monkia
  */
 public interface SaveAndLoad {
       public void save();
